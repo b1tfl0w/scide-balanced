@@ -32,7 +32,7 @@
           italic: false
         matchingBrackets: !textFormat
           color: "#96ff00"
-          background: "#661a43"
+          background: "#54002d"
           bold: true
           italic: false
         mismatchedBrackets: !textFormat
@@ -79,7 +79,7 @@
           italic: false
         text: !textFormat
           color: "#d0d0d0"
-          background: "#262626"
+          background: "#333333"
           italic: false
         whitespace: !textFormat
           color: "#4c4c4c"
